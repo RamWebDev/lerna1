@@ -11,5 +11,6 @@
   "dependencies": {
     "chalk": "^5.2.0",
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "0b069a2f3922bcd67d79502f550d800769671221"
 }

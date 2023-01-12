@@ -1,6 +1,22 @@
 {
   "packages": [
-    "packages/*"
+    "packages/apple",
+    "packages/orange"
   ],
-  "version": "0.0.1-alpha.0"
+  "version": "independent",
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "**/*.md",
+        "**/__tests__/**"
+      ],
+      "registry": "http://10.81.113.15:4873/"
+    },
+    "bootstrap": {},
+    "version": {
+      "allowBranch": "master",
+      "message": "chore(release): publish"
+    }
+  }
 }
+
