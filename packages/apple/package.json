@@ -1,5 +1,5 @@
 {
-  "name": "apple",
+  "name": "@test/apple",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -13,5 +13,5 @@
     "chalk": "^5.2.0",
     "lodash": "^4.17.21"
   },
-  "gitHead": "07549099d0bc91b316a98ee7ae9f0d8b73168c47"
+  "gitHead": "d99a9359113286f38eec6b2d06a5390fc3f277ce"
 }
