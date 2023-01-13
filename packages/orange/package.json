@@ -1,6 +1,6 @@
 {
   "name": "@velocloud/types",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Orchestrator Types",
   "main": "index.js",
   "scripts": {
