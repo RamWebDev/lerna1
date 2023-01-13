@@ -1,7 +1,7 @@
 {
-  "name": "@test/orange",
+  "name": "@velocloud/types",
   "version": "0.0.3",
-  "description": "",
+  "description": "Orchestrator Types",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.2.0",
+    "jquery": "^3.6.3",
     "lodash": "^4.17.21"
   },
   "gitHead": "07549099d0bc91b316a98ee7ae9f0d8b73168c47"

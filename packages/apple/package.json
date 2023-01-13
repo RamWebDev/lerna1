@@ -1,7 +1,7 @@
 {
-  "name": "@test/apple",
+  "name": "@velocloud/common",
   "version": "0.0.4",
-  "description": "",
+  "description": "Orchestrator Common",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,7 @@
   "dependencies": {
     "axios": "^1.2.2",
     "chalk": "^5.2.0",
+    "jquery": "^3.6.3",
     "lodash": "^4.17.21"
   },
   "gitHead": "d99a9359113286f38eec6b2d06a5390fc3f277ce"

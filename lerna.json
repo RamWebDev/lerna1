@@ -1,6 +1,7 @@
 {
   "packages": [
     "packages/apple",
+    "packages/banana",
     "packages/orange"
   ],
   "version": "independent",
